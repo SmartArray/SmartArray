@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**SmartArray/SmartArray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### What I am working on
+I’m currently working on a Rosetta Node SDK and a DigiByte Rosetta Node built on top of that SDK.
 
-Here are some ideas to get you started:
+### How to reach me
+Send me an email at git@jaeger.berlin or get in touch with me via Twitter: [@YoshiJaeger](https://twitter.com/YoshiJaeger)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Donations
+I will gladly accept donations, either via Bitcoin or DigiByte.
+
+Bitcoin: `12XhU6CKh2EHSkK2a6KcVWxYDcesrNkUMQ`
+
+DigiByte: `DQjDJXDenw2Gjx74zDXFBzxf9vA46BC4FG`
