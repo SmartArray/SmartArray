@@ -28,5 +28,8 @@
 > Passionate about bridging security, scalability, and developer experience — with a touch of curiosity and a love for elegant engineering.  
 > One of the fasted PoC developers you will know.
 
+> [!NOTE]
+> I was a fast and solid engineer even before ChatGPT got popular. However, I am completely capable of using AI as a tool - because this is what it is.
+
 📫 _Let's connect:_ [LinkedIn](https://www.linkedin.com/) • hello@jaeger.berlin 
 
